@@ -1,0 +1,5 @@
+# 域名关键字匹配 DOMAIN-KEYWORD,openai
+# 域名后缀匹配 DOMAIN-SUFFIX,perplexity.ai
+
+#只能走日本高可用节点的网站
+DOMAIN-SUFFIX,cc3001.dmm.co.jp
